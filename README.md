@@ -14,3 +14,12 @@ public class HelloWorld {
 }
 ```
 [facebook](facebook.com)
+
+![alt_wombat](https://c.files.bbci.co.uk/100E0/production/_114306756_gettyimages-482829557.jpg)
+
+```diff
+-Text is Red
++Text is Green
+!Text is Orange
+#Text is Grey
+```
